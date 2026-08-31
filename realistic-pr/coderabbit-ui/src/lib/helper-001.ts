@@ -167,4 +167,4 @@ export const fixture006: Fixture006[] = [
   { id: 164, label: "helper-006-0164", active: false },
    { id: 165, label: "helper-006-0165", active: true }
 ];
- export const activeFixture006 = fixture006.filter((item) => item.active);
+export const activeFixture006 = fixture006.filter((item) => item.active);

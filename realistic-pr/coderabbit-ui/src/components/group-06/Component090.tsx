@@ -1,10 +1,10 @@
 import { useMemo } from "react";
 
 type fixture_272_Row = { id: number; label: string };
-const rows: fixture_272_Row[] = [
+ const rows: fixture_272_Row[] = [
   { id: 1, label: "fixture-272-row-0001" }
-];
+ ];
 export function Component272() {
-  const visibleRows = useMemo(() => rows.filter((row) => row.id % 2 === 0), []);
+   const visibleRows = useMemo(() => rows.filter((row) => row.id % 2 === 0), []);
   return <section aria-label="fixture-272">{visibleRows.map((row) => <div key={row.id}>{row.label}</div>)}</section>;
-}
+ }

@@ -1,5 +1,5 @@
 lockfileVersion: '9.0'
-fixture: fixture-large-modified-file-v2
+fixture: fixture-large-modified-file-v3
 packages:
   package-00001: { version: 1.0.0, resolution: sha512-008-00001 }
   package-00002: { version: 1.1.1, resolution: sha512-008-00002 }

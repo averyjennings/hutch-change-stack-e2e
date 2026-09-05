@@ -8,3 +8,4 @@ coverage/
  tmp/
 .turbo/
  playwright-report/
+# Hutch Review Stack fixture

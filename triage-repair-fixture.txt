@@ -1,0 +1,3 @@
+Hutch Triage repair fixture
+selection=original
+Preserve both branch intentions when resolving this test conflict.

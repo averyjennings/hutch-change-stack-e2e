@@ -170,3 +170,5 @@ This note accompanies the realistic Hutch performance fixture.
  - Validation item 0166 exercises navigation and scrolling.
 
 Hutch refresh marker: 2026-09-05T03:35:42Z
+
+Viewport replay: verify scrolling and layer navigation after preview startup.

@@ -1,3 +1,3 @@
 Hutch Triage polling fixture
-selection=original
+selection=feature
 Preserve both branch intentions when resolving this test conflict.

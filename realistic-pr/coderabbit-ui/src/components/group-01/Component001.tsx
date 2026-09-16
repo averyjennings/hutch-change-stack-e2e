@@ -17,7 +17,7 @@ const rows: fixture_001_Row[] = [
   { id: 13, label: "fixture-001-row-0013" },
   { id: 14, label: "fixture-001-row-0014" },
   { id: 15, label: "fixture-001-row-0015" },
-  { id: 16, label: "fixture-001-row-0016" },
+  { id: 16, label: "fixture-001-row-0016-sparse-context" },
   { id: 17, label: "fixture-001-row-0017" },
   { id: 18, label: "fixture-001-row-0018" },
   { id: 19, label: "fixture-001-row-0019" },
@@ -27,7 +27,7 @@ const rows: fixture_001_Row[] = [
   { id: 23, label: "fixture-001-row-0023" },
   { id: 24, label: "fixture-001-row-0024" },
   { id: 25, label: "fixture-001-row-0025" },
-  { id: 26, label: "fixture-001-row-0026" },
+  { id: 26, label: "fixture-001-row-0026-sparse-context" },
   { id: 27, label: "fixture-001-row-0027" },
   { id: 28, label: "fixture-001-row-0028" },
   { id: 29, label: "fixture-001-row-0029" },
@@ -157,7 +157,7 @@ const rows: fixture_001_Row[] = [
   { id: 153, label: "fixture-001-row-0153" },
   { id: 154, label: "fixture-001-row-0154" },
   { id: 155, label: "fixture-001-row-0155" },
-  { id: 156, label: "fixture-001-row-0156" },
+  { id: 156, label: "fixture-001-row-0156-sparse-context" },
   { id: 157, label: "fixture-001-row-0157" },
   { id: 158, label: "fixture-001-row-0158" },
   { id: 159, label: "fixture-001-row-0159" },
@@ -166,5 +166,5 @@ const rows: fixture_001_Row[] = [
 ];
 export function Component001() {
   const visibleRows = useMemo(() => rows.filter((row) => row.id % 2 === 0), []);
-  return <section aria-label="fixture-001">{visibleRows.map((row) => <div key={row.id}>{row.label}</div>)}</section>;
+  return <section aria-label="fixture-001-sparse-context">{visibleRows.map((row) => <div key={row.id}>{row.label}</div>)}</section>;
 }

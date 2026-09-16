@@ -17,7 +17,7 @@ This note accompanies the realistic Hutch performance fixture.
 - Validation item 0013 exercises navigation and scrolling.
 - Validation item 0014 exercises navigation and scrolling.
 - Validation item 0015 exercises navigation and scrolling.
-- Validation item 0016 exercises navigation and scrolling.
+- Validation item 0016 exercises navigation and stable context expansion.
 - Validation item 0017 exercises navigation and scrolling.
 - Validation item 0018 exercises navigation and scrolling.
 - Validation item 0019 exercises navigation and scrolling.
@@ -27,7 +27,7 @@ This note accompanies the realistic Hutch performance fixture.
 - Validation item 0023 exercises navigation and scrolling.
 - Validation item 0024 exercises navigation and scrolling.
 - Validation item 0025 exercises navigation and scrolling.
-- Validation item 0026 exercises navigation and scrolling.
+- Validation item 0026 exercises navigation and stable context expansion.
 - Validation item 0027 exercises navigation and scrolling.
 - Validation item 0028 exercises navigation and scrolling.
 - Validation item 0029 exercises navigation and scrolling.
@@ -157,7 +157,7 @@ This note accompanies the realistic Hutch performance fixture.
 - Validation item 0153 exercises navigation and scrolling.
 - Validation item 0154 exercises navigation and scrolling.
 - Validation item 0155 exercises navigation and scrolling.
-- Validation item 0156 exercises navigation and scrolling.
+- Validation item 0156 exercises navigation and stable context expansion.
 - Validation item 0157 exercises navigation and scrolling.
 - Validation item 0158 exercises navigation and scrolling.
 - Validation item 0159 exercises navigation and scrolling.
@@ -166,5 +166,5 @@ This note accompanies the realistic Hutch performance fixture.
 - Validation item 0162 exercises navigation and scrolling.
 - Validation item 0163 exercises navigation and scrolling.
 - Validation item 0164 exercises navigation and scrolling.
-- Validation item 0165 exercises navigation and scrolling.
+- Validation item 0165 exercises navigation and stable context expansion.
 - Validation item 0166 exercises navigation and scrolling.
